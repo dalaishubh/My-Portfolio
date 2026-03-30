@@ -123,8 +123,8 @@ Contributions are welcome! Feel free to fork this repo and submit a pull request
 
 If you’d like to connect:
 
-* LinkedIn: [Shubhranshu Sekhar Dalai]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/shubhranshu-sekhar-dalai-a56804294/))
-* GitHub: https://github.com/your-username
+* LinkedIn: [Shubhranshu Sekhar Dalai]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/shubhranshu-sekhar-dalai-a56804294/)
+* GitHub: https://github.com/dalaishubh
 * Email: [shubh.ssd07@gmail.com](mailto:shubh.ssd07@gmail.com)
 
 ---
